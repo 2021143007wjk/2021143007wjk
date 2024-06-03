@@ -1,4 +1,6 @@
-## 
+## 안녕하세요 우정광입니다.
+
+신구대학교 학생으로 수업관련 내용이 올라갈 예정입니다.
 
 <!--
 **2021143007wjk/2021143007wjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
